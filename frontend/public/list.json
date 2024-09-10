@@ -1,0 +1,88 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"Sports Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"fitness",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    },
+
+    {
+        "id":3,
+        "name":"physics Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":90,
+        "category":"mind",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    },
+
+    {
+        "id":4,
+        "name":"chemistry Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":80,
+        "category":"logic",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    },
+
+    {
+        "id":5,
+        "name":"math Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"sharpnes",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    },
+
+    {
+        "id":6,
+        "name":"bussines Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":200,
+        "category":"mindd",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    },
+
+    {
+        "id":7,
+        "name":"yoga Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":70,
+        "category":"fitness",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350215.jpg?t=st=1723993390~exp=1723996990~hmac=0cb51a114937f780723ea97acb53c75908a53ea915a2ad20f55e19ced8b69096&w=740"
+    }
+]
